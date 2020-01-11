@@ -1,0 +1,16 @@
+body {
+  background: #c33764;
+  background: -webkit-linear-gradient(to right, #c33764, #1d2671);
+  background: linear-gradient(to right, #c33764, #1d2671);
+  color: #000;
+}
+
+.title {
+	font-family: 'Lobster', 'cursive';
+	color: snow;
+}
+
+.done {
+	text-decoration: line-through;
+	color: #cfcfcf;
+}
